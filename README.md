@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lshemu
-- 👀 I’m a multi-skilled Tech leader specilized in Robotic Process Automation for Sales and Marketing.
+- 👀 I’m specilized in Robotic Process Automation for Sales and Marketing.
 - 🌱 I’m currently skilled in Zapier, Integrately and Integromat platforms.
 - 💞️ I’m looking to collaborate on RPA Development Projects
 - 📫 How to reach me on WhatsApp...+255754325360.
